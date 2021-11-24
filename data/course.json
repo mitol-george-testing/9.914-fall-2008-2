@@ -1,0 +1,49 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Health and Medicine",
+      "Mental Health"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b537a303-ce82-79db-175f-75fe6359a86b",
+      "e314e373-6e0f-4dcd-adef-b08d0648c71b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders",
+  "course_description": "An opportunity for graduate study of advanced subjects in Brain and Cognitive Sciences not included in other subject listings. The key topics covered in this course are Bipolar Disorder, Psychosis, Schizophrenia, Genetics of Psychiatric Disorder, DISC1, Ca++ Signaling, Neurogenesis and Depression, Lithium and GSK3 Hypothesis, Behavioral Assays, CREB in Addiction and Depressive Behaviors, The GABA System-I, The GABA System-II, The Glutamate Hypothesis of Schizophrenia, The Dopamine Pathway and DARPP32.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.914",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
